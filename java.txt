@@ -1,0 +1,5 @@
+class Mian{
+	public static void main(Sring[] args){
+          System.out.println("Helo  world");
+ }
+}
